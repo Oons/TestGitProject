@@ -16,6 +16,7 @@ public class Main {
 		System.out.println("Yop !D");
 		
 		System.out.println("yes");
+		System.out.println("no");
 		
 	}
 }
