@@ -15,5 +15,7 @@ public class Main {
 		System.out.println("Salut greet !");
 		System.out.println("Yop !D");
 		
+		System.out.println("yes");
+		
 	}
 }
